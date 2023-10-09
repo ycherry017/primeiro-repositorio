@@ -1,0 +1,11 @@
+body {
+    background-color: #c186e4;
+}
+
+p {
+    text-align: center;
+}
+
+em p {
+    colo: red;
+}
