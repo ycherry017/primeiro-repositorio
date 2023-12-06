@@ -22,7 +22,7 @@ nav li {
 
 nav a {
     text-transform: uppercase;
-    color: #c71313;
+    color: #000000;
     font-weight: bold;
     font-size: 22px;
     text-decoration: none;
@@ -80,7 +80,7 @@ footer {
     padding: 40px 0;
 }
 
-.copyrigth {
+.copyright {
     color: #FFFFFF;
     font-size: 13px;
     margin: 20px 0 0;
